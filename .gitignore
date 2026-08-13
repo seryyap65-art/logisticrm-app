@@ -1,0 +1,48 @@
+# Бизнес-контекст (не в git)
+.business/
+
+# Системные файлы macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Playwright MCP скриншоты и логи
+*.png
+.playwright-mcp/
+
+# Кэш и временные файлы
+.cache/
+.npm/
+.chelper/
+*.log
+
+# VSCode
+.vscode/
+.copilot/
+
+# Локальные конфиги (с секретами)
+.claude.json
+.mcp.json
+.zsh_history
+
+# Описание проекта CLAUDE.md (уже в репозитории, это не нужно игнорировать)
+# CLAUDE.md
+
+# Личные файлы
+.Music/
+.Pictures/
+.Movies/
+.Documents/
+.Downloads/
+.Desktop/
+.Applications/
+.Public/
+.Library/
+
+# Файлы настроек
+.profile
+.zshrc
+.CFUserTextEncoding
+setup_dictation.applescript
+HELLO.md
+google-screenshot.png
