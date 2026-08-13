@@ -46,3 +46,16 @@
 setup_dictation.applescript
 HELLO.md
 google-screenshot.png
+
+# Next.js
+node_modules/
+.next/
+out/
+.vercel/
+
+# TypeScript
+*.tsbuildinfo
+
+# Environment variables
+.env
+.env*.local
