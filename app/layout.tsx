@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "LogistiCRM - CRM для грузоперевозок",
+  title: "ЛогистиСРМ - Система управления грузоперевозками",
   description: "CRM-система для управления грузоперевозками и клиентской базой транспортных компаний",
 };
 
