@@ -61,3 +61,5 @@ out/
 .env*.local
 .vercel
 .env*
+
+/app/generated/prisma
